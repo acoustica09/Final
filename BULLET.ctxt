@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BULLET
+comment1.params=
+comment1.target=BULLET()
+comment2.params=_dir
+comment2.target=BULLET(java.lang.String)
+comment3.params=_dir\ _speed
+comment3.target=BULLET(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

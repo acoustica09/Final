@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RANGE
+comment1.params=_Name
+comment1.target=RANGE(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x
+comment3.target=void\ setProjectile(BULLET)
+comment4.params=
+comment4.target=BULLET\ getProjectile()
+numComments=5

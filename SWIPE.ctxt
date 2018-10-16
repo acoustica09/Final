@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SWIPE
+comment1.params=
+comment1.target=SWIPE()
+comment2.params=_dir
+comment2.target=SWIPE(java.lang.String)
+comment3.params=_dir\ _wid\ _len
+comment3.target=SWIPE(java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=Dis
+comment5.target=void\ offSet(int)
+numComments=6

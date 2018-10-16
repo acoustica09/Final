@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SuperWorld
+comment0.text=\r\n\ The\ superclass\ of\ all\ worlds\ where\ an\ inventory\ is\ required.\r\n\ \r\n\ @author\ Chandler\ Clarke\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SuperWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ invSwitcher()
+comment4.params=
+comment4.target=void\ unPause()
+comment5.params=
+comment5.target=void\ checkIfUserWantsToTogglePause()
+comment6.params=delay
+comment6.target=boolean\ counter(int)
+comment7.params=
+comment7.target=boolean\ isInInv()
+comment8.params=
+comment8.target=boolean\ isPaused()
+comment9.params=
+comment9.target=PLAYER\ getPlayer()
+numComments=10

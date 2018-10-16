@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WALL
+comment1.params=Lx\ Ly
+comment1.target=WALL(int,\ int)
+comment2.params=Lx\ Ly\ Tilt
+comment2.target=WALL(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MELEE
+comment1.params=_Name
+comment1.target=MELEE(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x
+comment3.target=void\ setProjectile(SWIPE)
+comment4.params=
+comment4.target=SWIPE\ getProjectile()
+numComments=5

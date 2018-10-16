@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DEMOWORLD
+comment1.params=
+comment1.target=DEMOWORLD()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ givePlayerStats()
+comment5.params=
+comment5.target=void\ spawnWeapon()
+numComments=6

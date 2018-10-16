@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WEAPON
+comment1.params=_Name
+comment1.target=WEAPON(java.lang.String)
+comment1.text=MAIN\:\r\n\ \ \ \ \r\n\ WEAPON(NAME)\r\n\ act()\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x
+comment3.target=void\ setProjectile(PROJECTILE)
+comment4.params=
+comment4.target=PROJECTILE\ getProjectile()
+comment5.params=Dir
+comment5.target=void\ STRIKE(java.lang.String)
+comment6.params=
+comment6.target=void\ trimWhite()
+numComments=7

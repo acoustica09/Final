@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PLAYER
+comment1.params=_Name
+comment1.target=PLAYER(java.lang.String)
+comment1.text=MAIN\:\r\n\ \ \ \ \r\n\ CHARACTER(NAME,STATS[],SKILL[],WEAPON)\r\n\ act()\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=_key
+comment3.target=boolean\ Key(java.lang.String)
+comment3.text=INPUT\:\r\n\ \ \ \ \r\n\ Key(String)\r\n\ INPUT()\r\n\ setKey(String,\ String)\r\n\ \r\n
+comment4.params=
+comment4.target=void\ INPUT()
+comment5.params=comm\ key
+comment5.target=void\ setKey(java.lang.String,\ java.lang.String)
+numComments=6
